@@ -6,3 +6,6 @@
 ``` java
 String name = "Hello, world!";
 ```
+- [x] Learn foundations course
+- [ ] Master in git
+- [ ] Become a certified professional
